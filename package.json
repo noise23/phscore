@@ -118,10 +118,10 @@
   "readmeFilename": "README.md",
   "gypfile": true,
   "bugs": {
-    "url": ""
+    "url": "https://github.com/noise23/phscore/issues"
   },
-  "homepage": ",
-  "_id": "core@0.1.39",
+  "homepage": "https://github.com/noise23/phscore",
+  "_id": "phscore@0.1.39",
   "devDependencies": {
     "browserify": "=3.40.0",
     "chai": "=1.9.1",
