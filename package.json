@@ -1,5 +1,5 @@
 {
-  "name": "core",
+  "name": "phscore",
   "description": "Altcoin Core Library in Javascript",
   "version": "0.1.40",
   "author": {
