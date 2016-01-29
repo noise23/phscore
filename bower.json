@@ -1,0 +1,26 @@
+{
+  "name": "x",
+  "main": "browser/bundle.js",
+  "version": "0.1.36",
+  "homepage": "x",
+  "authors": [
+    "Larry Ren (<ren@reddcoin.com>)"
+  ],
+  "description": "Core Library in Javascript",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "bitcoin",
+    "bitcore",
+    "btc",
+    "satoshi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ]
+}
